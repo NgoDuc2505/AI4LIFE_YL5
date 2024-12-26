@@ -49,11 +49,9 @@ VOC/
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
 *.pb
-*.onnx
 *.engine
 *.mlmodel
 *.mlpackage
-*.torchscript
 *.tflite
 *.h5
 *_saved_model/
