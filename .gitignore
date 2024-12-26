@@ -52,7 +52,6 @@ VOC/
 *.engine
 *.mlmodel
 *.mlpackage
-*.tflite
 *.h5
 *_saved_model/
 *_web_model/
